@@ -2,6 +2,8 @@
 
 rm -rf ./site
 
+mkdir ./site
+
 npx antm-vantui-cli mdcode --mode create
 
 npx antm-vantui-cli docs --mode production
