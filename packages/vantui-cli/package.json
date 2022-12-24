@@ -11,10 +11,6 @@
     "npm": ">=6.4",
     "yarn": ">=1.22"
   },
-  "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org/"
-  },
   "keywords": [
     "antmjs"
   ],

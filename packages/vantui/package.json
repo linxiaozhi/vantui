@@ -8,10 +8,6 @@
   "author": "三少 <hi_sanshao@outlook.com>",
   "description": "一套适用于Taro3及React的vantui组件库",
   "license": "MIT",
-  "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org"
-  },
   "keywords": [
     "weui",
     "vant-weapp",
